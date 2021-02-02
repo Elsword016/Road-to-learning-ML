@@ -2,5 +2,19 @@ Using YOLOv3 architecture from darknet and its pre-trained weights and implement
 
 **Changes to the directory: 
 1. YOLO_custom notebook added containing the entire method to train the architecture on Google Colab without overloading its memory. 
-2. I used a custom gun images, to train the network
-3. It takes a long tim
+2. Updates the darknet-master coming, once I arrange all the files nicely with all the custom cfg files used here.
+
+*It takes a long time to train the network on nay given dataset, so a symbolic link to your Gdrive will be useful if you're planning to train it on Google Colab as Colab's 
+memory gets refreshed every 12 hours session, so all the variables will lost, so the model will be saving weights after every 1000 epochs, and the symbolic link will copy
+the weights from the darknet/backup to your designated folder in the drive and next time you can use that weights to start your training.
+
+*Tool used for annotation of the data: VOTT by Microsoft, can use locally as well as on web, but requires Azure connection in web. Other tools can be used- makesense.ai.
+*Whatever tool you're using make sure the to save the annotations in YOLO format. 
+
+* I guess this configuration can be used for detecting in video clips, and in real time too.
+
+*Try to deploy it as web app or service.
+
+
+*Coming up- One more image segmentation(using polygons than rectangles) to a research: Electron Microscope images of Freeze-Fracted synapses and label and different
+immunogold stained receptors.
