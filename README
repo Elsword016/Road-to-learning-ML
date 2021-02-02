@@ -6,7 +6,6 @@ This repository aims towards my learning path of ML algorithms, it has some begi
 
 *scraps= Some of my unfinished codes, I guess I had ideas, couldn't implement or got a better idea and left that or just wrote half of it and forgot to complete :(
 
-
 *Some resources, I followed:
 1. Andrew Ng's course on Coursera
 2. IBM's machine learning course
@@ -16,3 +15,10 @@ This repository aims towards my learning path of ML algorithms, it has some begi
 6. Short courses on kaggle(specially exploratory data analysis
 
 *for YOLO, I forked the official darknet github repo, and then made changes.
+
+
+
+**Changes:
+1. Added a complete YOLO on custom data in YOLO_object detection.
+2. Loaded Synapse EM images, for next project.(private viewing)
+3. Fixed a small error in YOLO_custom notebook
