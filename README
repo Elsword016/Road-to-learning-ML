@@ -22,3 +22,4 @@ This repository aims towards my learning path of ML algorithms, it has some begi
 1. Added a complete YOLO on custom data in YOLO_object detection.
 2. Loaded Synapse EM images, for next project.(private viewing)
 3. Fixed a small error in YOLO_custom notebook
+4. Added a new file implementing GradCAM, soon will be using it on Covid-Chest Xray dataset
