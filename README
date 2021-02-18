@@ -1,6 +1,6 @@
 This repository aims towards my learning path of ML algorithms, it has some beginner to intermediate level projects. I'll keep on updating the repo, with time. I'm new to the Github environment, so need to learn Git to arrange it better. But, till now it contains all my projects over the last year. Some codes are not given with the results, it mainly cause my laptop is not good and almost at its death bed and at times, it would crash even running on google colab.
 
-*YOLO project= still in progress, figured out how to load a custom dataset and train with pre-trained weights on google colab, keeping it from crashing. I used Microsoft's VOTT(Visual Object Tagging Tool) to label the dataset and bounding boxes coordinates.
+*YOLO project= Done did on a pre-labelled gun dataset while searching how to optimize the network for google colab.
 
 *Reinforcement Learning= still in learning process, but having most fun, in implementing games and stuff, but again, DOOM project is on going, laptop almost died while training it locally, have to find to tweak the vizdoom libraries, Cartpole works fine, but can't render one episode on google colab(have to figure it out)
 
@@ -12,7 +12,7 @@ This repository aims towards my learning path of ML algorithms, it has some begi
 3. Random medium/towardsdatascience blogs
 4. Freecodecamp.org videos
 5. deeplearning.ai course on Coursera(3 parts)
-6. Short courses on kaggle(specially exploratory data analysis
+6. Short courses on kaggle(specially exploratory data analysis)
 
 *for YOLO, I forked the official darknet github repo, and then made changes.
 
